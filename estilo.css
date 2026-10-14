@@ -1,0 +1,15 @@
+.reveal .slides section {
+  text-align: center;
+}
+
+.reveal .slides section h2,
+.reveal .slides section p,
+.reveal .slides section ul {
+  text-align: left;
+}
+
+.reveal .slides section img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

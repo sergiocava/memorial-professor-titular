@@ -1,0 +1,80 @@
+
+## {background-image="imagens/slide01.png" background-size="cover" background-position="center"}
+
+## {background-image="imagens/slide02.png" background-size="cover" background-position="center"}
+
+## Vestibular UEPG 1991
+
+![](imagens/slide03.png){width=85%}
+
+## Primeiras aulas na UEPG
+
+- aulas práticas de Química com o Prof. Sergio Tebcherani
+
+![](imagens/slide05.png){width=85%}
+
+## Palestrante convidado - 1992
+
+- Prof. Elson Longo convidado pelo Prof. Sidnei Pianaro
+
+![](imagens/slide04.png){width=85%}
+
+## Formatura - 1995
+
+- fazer imagem do convite de formatura
+
+## Procurando um rumo - 1996
+
+![](imagens/slide07.png){width=85%}
+
+## Experiência na indústria
+
+![](imagens/slide08.png){width=85%}
+
+## Defesa de mestrado - 2000
+
+- Engenharia / USP São Carlos
+
+
+
+## Defesa de doutorado - 2003
+
+- Química / UFSCar
+
+## Pós-doc - de volta à UEPG
+
+![](imagens/slide11.png){width=85%}
+
+## Agradecimento especial
+
+- Regina e família por estar sempre junto nas andanças
+
+## Colegas na UEPG
+
+- Mário fazia mestrado com o Prof. Pianaro
+
+![](imagens/slide13.png){width=85%}
+
+## Posse na UFPel - 2009
+
+- No mesmo dia da posse, o Prof. Piva me convidou para uma banca no PPGO.
+
+![](imagens/slide14.png){width=85%}
+
+## Pesquisa e inovação
+
+::: {.columns}
+::: {.column width="50%"}
+
+### Materiais funcionais
+
+- Fotocatálise
+- Energia solar
+- Ação antimicrobiana
+:::
+
+::: {.column width="50%"}
+![](imagens/slide02.png)
+:::
+:::
+
