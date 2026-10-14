@@ -35,21 +35,19 @@
 
 - Engenharia / USP São Carlos
 
-
+![](imagens/slide09.png){width=85%}
 
 ## Defesa de doutorado - 2003
 
 - Química / UFSCar
 
+![](imagens/slide10.png){width=85%}
+
 ## Pós-doc - de volta à UEPG
 
 ![](imagens/slide11.png){width=85%}
 
-## Agradecimento especial
-
-- Regina e família por estar sempre junto nas andanças
-
-## Colegas na UEPG
+## Colegas na UEPG desde 2004
 
 - Mário fazia mestrado com o Prof. Pianaro
 
@@ -60,6 +58,16 @@
 - No mesmo dia da posse, o Prof. Piva me convidou para uma banca no PPGO.
 
 ![](imagens/slide14.png){width=85%}
+
+## Aluna de mestrado
+
+- Cristiane queria fazer doutorado, mas não tinha doutorado na UFPel.
+
+![](imagens/slide15.png){width=85%}
+
+## Curso de Engenharia de Materiais em implantação
+
+![](imagens/slide16.png){width=85%}
 
 ## Pesquisa e inovação
 
@@ -77,4 +85,9 @@
 ![](imagens/slide02.png)
 :::
 :::
+
+## Agradecimento especial
+
+- Regina e família por estar sempre junto nas andanças
+
 
