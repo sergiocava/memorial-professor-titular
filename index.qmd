@@ -1,7 +1,9 @@
 
 ## {background-image="imagens/slide01.png" background-size="cover" background-position="center"}
 
-## {background-image="imagens/slide02.png" background-size="cover" background-position="center"}
+## Sou VIP: Vim do Interior do Paraná
+
+![](imagens/slide02.png){width=85%}
 
 ## Vestibular UEPG 1991
 
@@ -21,7 +23,7 @@
 
 ## Formatura - 1995
 
-- fazer imagem do convite de formatura
+![](imagens/slide06.png){width=85%}
 
 ## Procurando um rumo - 1996
 
@@ -35,9 +37,17 @@
 
 ![](imagens/slide09.png){width=85%}
 
+## Doutorado Sandwich na Espanha em 2001
+
+![](imagens/slide09a.png){width=85%}
+
 ## Defesa de doutorado - 2003
 
 ![](imagens/slide10.png){width=85%}
+
+## Principal artigo do doutorado
+
+![](imagens/slide10a.png){width=85%}
 
 ## Pós-doc - de volta à UEPG
 
@@ -149,9 +159,53 @@
 
 ![](imagens/slide31.png){width=85%}
 
-## Conclusão
+## A UFPel, antes e depois
 
 ![](imagens/slide32.png){width=85%}
+
+## Formação de Recursos humanos
+
+![](imagens/slide34.png){width=85%}
+
+## Produção Científica
+
+![](imagens/slide33.png){width=85%}
+
+## Materiais Funcionais
+
+![](imagens/ciencia/slide02.png){width=85%}
+
+## Nossas pesquisas atuais
+
+![](imagens/ciencia/slide03.png){width=85%}
+
+## Metodologia
+
+![](imagens/ciencia/slide04.png){width=85%}
+
+## Materiais utilizados
+
+![](imagens/ciencia/slide05.png){width=85%}
+
+## Aplicações
+
+![](imagens/ciencia/slide17.png){width=85%}
+
+## Tudo começa com os primeiros princípios
+
+![](imagens/ciencia/slide18.png){width=85%}
+
+## Outros materiais
+
+![](imagens/ciencia/slide19.png){width=85%}
+
+## Agradecimentos
+
+![](imagens/slide35.png){width=85%}
+
+## O futuro...
+
+![](imagens/slide36.png){width=85%}
 
 ## Agradecimento especial
 
